@@ -1,0 +1,13 @@
+.form-signin {
+	max-width: 500px;
+    margin: 20% auto 3%;
+}
+
+.notsingin {
+	max-width: 500px;
+	margin:0 auto;
+}
+
+.logout, .btn-add {
+	margin-left: 5px;
+}
